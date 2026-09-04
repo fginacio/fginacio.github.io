@@ -1,4 +1,4 @@
-# fginaciogit.github.io
+# fginacio.github.io
 
 Professional portfolio of **Fabiano Inácio**, Principal Engineer specialized in Microsoft technologies.
 
@@ -35,7 +35,7 @@ Professional portfolio of **Fabiano Inácio**, Principal Engineer specialized in
 
 ## Links
 
-- Website: https://fginaciogit.github.io
+- Website: https://fginacio.github.io
 - GitHub: https://github.com/fginacio
 - LinkedIn: https://www.linkedin.com/in/fabianoinacio/
 - Email: fginacio@gmail.com
